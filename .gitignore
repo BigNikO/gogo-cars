@@ -16,3 +16,6 @@
 
 # Common
 *.env
+
+*node_modules
+*tmp
